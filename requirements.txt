@@ -1,0 +1,4 @@
+pandas>=2.0,<4
+openai>=1.0,<3
+httpx[socks]>=0.27,<1
+
